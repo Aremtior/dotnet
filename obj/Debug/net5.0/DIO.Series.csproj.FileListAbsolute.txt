@@ -1,0 +1,16 @@
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/aremtior/Work/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/aremtior/Work/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
